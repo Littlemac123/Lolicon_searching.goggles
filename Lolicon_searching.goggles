@@ -4,8 +4,6 @@
 ! author: Little_mac
 ! avatar: #9244e0
 
-$discard
-
 $boost=3,site=pixiv.net
 $boost=3,site=gelbooru.com
 $boost=3,site=duckduckgo.com
