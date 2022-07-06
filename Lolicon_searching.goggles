@@ -5,9 +5,6 @@
 ! avatar: #9244e0
 
 $discard
-$downrank,site=wikipedia.org
-$downrank,site=pinterest.com
-$downrank,site=learnenglishfunway.com
 
 $boost=3,site=pixiv.net
 $boost=3,site=gelbooru.com
