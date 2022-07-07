@@ -13,7 +13,7 @@ $boost=3,site=pixiv.net
 $boost=3,site=gelbooru.com
 $boost=3,site=deviantart.com
 $boost=3,site=nhentai.net
-#$boost=3,site=exhentai.org
+
 $boost=3,site=e621.net
 $boost=3,site=inkbunny.net
 $boost=2,site=furaffinity.net
