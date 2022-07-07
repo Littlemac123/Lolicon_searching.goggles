@@ -16,8 +16,8 @@ $boost=3,site=gelbooru.com
 $boost=3,site=deviantart.com
 $boost=3,site=nhentai.net
 $boost=3,site=e621.net
-$boost=3,site=inkbunny.net
-$boost=2,site=furaffinity.net
+/Furry^$boost=2,site=inkbunny.net
+/Furry^$boost=2,site=furaffinity.net
 $boost=3,site=danbooru.donmai.us
 $boost=3,site=f95zone.to
 $boost=3,site=lolibooru.moe
