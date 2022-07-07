@@ -18,6 +18,8 @@ $boost=3,site=inkbunny.net
 $boost=2,site=furaffinity.net
 $boost=3,site=danbooru.donmai.us
 $boost=3,site=f95zone.to
+$boost=3,site=lolibooru.moe
+$boost=3,site=allthefallen.moe
 /Form/Feederism^$boost=2,site=bbw-chan.nl
 /Form/Feederism^$boost=1,site=weightgaming.com
 /Form^$boost=1,site=4chan.org/b/
